@@ -71,7 +71,7 @@ key:
 <ul>
   <li>Monday: Object.assign / Spread Operator 👀 </li>
   <li>Tuesday: Common Node Errors 🤷‍</li>
-  <li>Wednesday: Sessions 🤷‍</li>
+  <li>Wednesday: Sessions 👀</li>
   <li>Thursday: schema/normalization 👀</li>
   <li>Friday: None</li>
 </ul>
@@ -80,7 +80,7 @@ key:
 <details>
 <summary>Week 7</summary>
 <ul>
-  <li>Monday: HTML 🤷‍</li>
+  <li>Monday: HTML 👀</li>
   <li>Tuesday: Schema development two(todd) 🤷‍</li>
   <li>Wednesday: Auth Bypass (todd) 🤷‍</li>
   <li>Thursday: project planning for full stack review ❓</li>
