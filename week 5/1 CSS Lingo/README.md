@@ -2,7 +2,17 @@
 
 ## Goals
 
-The goal of today's toy problem is to help students learn precisely how different css attributes behave, as well as precision in selecting html elements. Students should show an increased understanding of complex selectors, pseudo selectors, and pseudo elements.
+The goal of today's toy problem is to help students learn precisely how different css properties behave, as well as precision in selecting html elements. Students should show an increased understanding of complex selectors, pseudo selectors, and pseudo elements.
+
+## Notes for the Instructor
+
+Below is a list of important pseudo selectors, elements, and css properties which students should become familiar with to get comfortable with styling. Keep them in mind and use the project as a playground to explore their effects. This project requires both the HTML and CSS files, but changes should be done only in CSS.
+
+A link is provided to a code sandbox with these files, but alternatively the instructor can share the files themselves and have the class work in VS Code.
+
+## Link
+
+- https://codesandbox.io/s/l906l94q8l
 
 ## Important Pseudo Selectors
 
@@ -36,6 +46,12 @@ The goal of today's toy problem is to help students learn precisely how differen
 
 ## Important Complex Selectors
 
+### - Other selectors
+
+  - Select everything (*) 
+
+  - Ignore everything except this (!important)
+
 ### - Selecting Children
 
   - Descendant Selector (space)
@@ -66,4 +82,43 @@ The goal of today's toy problem is to help students learn precisely how differen
 
     - Select the **first** element listed on the right, that share the same parent as the element on the left **and comes after it**
 
-  - 
+## Important Pseudo Elements
+
+- :before
+- :after
+- :first-letter
+- :placeholder
+- the content property
+
+## Important CSS Properties
+
+1. position:
+    - static
+    - relative
+    - absolute
+    - fixed
+    - sticky
+2. display:
+    - none
+    - inline
+    - block
+    - inline-block
+    - flex
+    - grid
+3. background-
+    - -color
+    - -image
+    - -repeat
+    - -position
+    - -size
+4. overflow: (also overflow-x:, overflow-y:)
+    - visible
+    - hidden
+    - clip
+    - scroll
+5. text-transform:
+    - capitalize
+    - uppercase
+    - lowercase
+6. text-shadow: & box-shadow:
+    - x-offset, y-offset, blur, color
