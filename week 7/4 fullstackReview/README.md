@@ -1,4 +1,4 @@
-# Fullstack Review Prep
+# Week 7 Day 4 Fullstack Review Prep
 
 ## Introduction
 Instead of the standard toy problem/review, today a mentor will go over the planning process for a full-stack application from 9:00 to 10:00, namely the application that will be built during the rest of the day with an instructor. This exercise is important because it is one of the few opportunities that we have to discuss the importance of solid planning when building a full-stack application, and it is also the last opportunity to go in depth on planning strategies before the cohort will start their personal projects.

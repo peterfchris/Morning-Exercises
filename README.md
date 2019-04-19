@@ -72,7 +72,7 @@ key:
   <li>Monday: Object.assign / Spread Operator 👀 </li>
   <li>Tuesday: Common Node Errors 🤷‍</li>
   <li>Wednesday: Sessions 👀</li>
-  <li>Thursday: schema/normalization 👀</li>
+  <li>Thursday: E Commerce Schema 👀</li>
   <li>Friday: None</li>
 </ul>
 </details>
@@ -81,7 +81,7 @@ key:
 <summary>Week 7</summary>
 <ul>
   <li>Monday: HTML 👀</li>
-  <li>Tuesday: Schema development two(todd) 🤷‍</li>
+  <li>Tuesday: Music App Schema 👀</li>
   <li>Wednesday: Auth Bypass (todd) 🤷‍</li>
   <li>Thursday: project planning for full stack review ❓</li>
   <li>Friday: None</li>
@@ -90,76 +90,64 @@ key:
 
 <details>
 <summary>Week 8</summary>
+<h4>Student Selected Topics</h4>
+👀
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Chart.js</li>
+  <li>Visual Effects</li>
+  <li>Styling Libraries</li>
+  <li>SASS</li>
+  <li>S3</li>
+  <li>Sockets</li>
+  <li>CSS Grid</li>
 </ul>
 </details>
 
 <details>
 <summary>Week 9</summary>
-<ul>
-  <li>Monday: pp</li>
-  <li>Tuesday: pp</li>
-  <li>Wednesday: pp</li>
-  <li>Thursday: pp</li>
-  <li>Friday: pp</li>
-</ul>
+  <h4>Personal Projects</h4>
 </details>
 
 <details>
 <summary>Week 10</summary>
 <ul>
-  <li>Monday: pp</li>
-  <li>Tuesday: pp</li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Monday: Personal Projects</li>
+  <li>Tuesday: Personal Projects</li>
+  <li>Wednesday: Data Structures ✔️</li>
+  <li>Thursday: Big 0 ✔️</li>
+  <li>Friday: Algorithms ✔️</li>
 </ul>
 </details>
 
 <details>
 <summary>Week 11</summary>
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: gp</li>
-  <li>Friday: gp</li>
+  <li>Monday: Problem Solving 🤷‍</li>
+  <li>Tuesday: Randomize Array 👀</li>
+  <li>Wednesday: Ransom Note 👀</li>
+  <li>Thursday: Lowest Common Denominator 👀</li>
+  <li>Friday: Group Project Kickoffs</li>
 </ul>
 </details>
 
 <details>
 <summary>Week 12</summary>
 <ul>
-  <li>Monday: Randomize Array</li>gp
-  <li>Tuesday: Primes Summed</li>gp
-  <li>Wednesday: Ransom Note</li>gp
-  <li>Thursday: Lowest Common Denominator</li>gp
-  <li>Friday: Competency day</li>gp
+  <li>Monday: Primes Summed 🤙</li>gp
+  <li>Tuesday: Fibonacci Recursion 🤙</li>gp
+  <li>Wednesday: Does It Contain 👀</li>gp
+  <li>Thursday: </li>gp
+  <li>Friday: Interview Practice 🤙</li>gp
 </ul>
 </details>
 
 <details>
 <summary>Week 13</summary>
 <ul>
-  <li>Monday: Fibonacci Recursion  gp</li>
-  <li>Tuesday: Does It Contain  gp</li>
-  <li>Wednesday: gp</li>
-  <li>Thursday: gp</li>
-  <li>Friday: gp</li>
+  <li>Monday: </li>
+  <li>Tuesday: </li>
+  <li>Wednesday: </li>
+  <li>Thursday: </li>
+  <li>Friday: </li>
 </ul>
 </details>
-
-
-
-## HTML
-
-The HTML has a few sites drawn with boxes around them progressing through how to build a layout and more importantly how to think in terms of boxes and sections. If you use this I would stress that they should really just use divs and not worry about the actual content but more the layout and how to position things.
-
-## Cart
-
-The idea of this one was to try and spend multiple days spread over a few weeks where they built something that felt more real and usable. Also this would help for when students want to build a cart and now you could have them pull up their toy problems for a starting point.

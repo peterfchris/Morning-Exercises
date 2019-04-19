@@ -19,3 +19,5 @@ We are looking to build a schema for a music service, like Spotify. There is a t
 - playlist
 
 A good tactic for building a schema is to list as many nouns in regards to what you are tracking. The above list is both the tables you could use, and the nouns. To go along with that you can use adjectives to describe more info about it, like a song has a title, a track length, and an artist.
+
+Make sure to talk about the many - many relationships, and the one - many things as well.
