@@ -1,4 +1,4 @@
-# CSS Lingo: Selectors, Pseudo Selectors, Pseudo Elements
+# Week 5 Day 1 - Selectors, Pseudo Selectors, Pseudo Elements
 
 ## Goals
 

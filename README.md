@@ -4,7 +4,8 @@
 
 key:
 
-- 🤷‍: needs work
+- 🤷‍: needs to be made
+- 🤙: could use some improvement
 - 📖: needs readme
 - 🤼‍: needs formatting
 - 👀: fist review pass
@@ -25,7 +26,7 @@ key:
 <summary>Week 2</summary>
 <ul>
   <li>Monday: Debugging Methodology 👀</li>
-  <li>Tuesday: Fizz Buzz</li>
+  <li>Tuesday: Fizz Buzz 👀</li>
   <li>Wednesday: HTML Layout 👀</li>
   <li>Thursday: Review 👀</li>
   <li>Friday: Skill Check Review 👀</li>
@@ -35,8 +36,8 @@ key:
 <details>
 <summary>Week 3</summary>
 <ul>
-  <li>Monday: Array Cardio 🤷‍</li>
-  <li>Tuesday: This and context 🤷‍</li>
+  <li>Monday: Array Cardio 👀</li>
+  <li>Tuesday: This and context 👀</li>
   <li>Wednesday: Broken React Drills 👀</li>
   <li>Thursday: Nested Data Hard 👀</li>
   <li>Friday: spread operator (matt) 🤷‍</li>
@@ -46,21 +47,21 @@ key:
 <details>
 <summary>Week 4</summary>
 <ul>
-  <li>Monday: Broken Vowel Counter 📖</li>
-  <li>Tuesday: HTML Layout 🤷‍</li>
-  <li>Wednesday: connecting node to react 🤷‍</li>
-  <li>Thursday: no db show off/Q and A 🤷‍</li>
-  <li>Friday: None</li>
+  <li>Monday: Broken Vowel Counter 👀</li>
+  <li>Tuesday: HTML Layout 👀</li>
+  <li>Wednesday None, should be led by Instructor</li>
+  <li>Thursday: None Due to No-DB's</li>
+  <li>Friday: None Due to No-DB's</li>
 </ul>
 </details>
 
 <details>
 <summary>Week 5</summary>
 <ul>
-  <li>Monday: css jam pam, psudeo selectors, (Jonathan)</li>
-  <li>Tuesday: string cardio 🤼‍</li>
-  <li>Wednesday: Broken largest even 📖</li>
-  <li>Thursday: HTML 🤷‍</li>
+  <li>Monday: CSS Lingo 👀</li>
+  <li>Tuesday: string cardio 👀</li>
+  <li>Wednesday: Broken largest even 👀</li>
+  <li>Thursday: HTML 👀</li>
   <li>Friday: None</li>
 </ul>
 </details>
@@ -68,10 +69,10 @@ key:
 <details>
 <summary>Week 6</summary>
 <ul>
-  <li>Monday: object.assign/spread operator for redux(Matt) 🤼‍ /li>
-  <li>Tuesday: common node errors(dave) 🤷‍</li>
-  <li>Wednesday: turning one array into sessions (Jonathan) 🤷‍</li>
-  <li>Thursday: schema/normalization 🤷‍</li>
+  <li>Monday: Object.assign / Spread Operator 👀 </li>
+  <li>Tuesday: Common Node Errors 🤷‍</li>
+  <li>Wednesday: Sessions 🤷‍</li>
+  <li>Thursday: schema/normalization 👀</li>
   <li>Friday: None</li>
 </ul>
 </details>
@@ -101,19 +102,19 @@ key:
 <details>
 <summary>Week 9</summary>
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Monday: pp</li>
+  <li>Tuesday: pp</li>
+  <li>Wednesday: pp</li>
+  <li>Thursday: pp</li>
+  <li>Friday: pp</li>
 </ul>
 </details>
 
 <details>
 <summary>Week 10</summary>
 <ul>
-  <li>Monday: </li>
-  <li>Tuesday: </li>
+  <li>Monday: pp</li>
+  <li>Tuesday: pp</li>
   <li>Wednesday: </li>
   <li>Thursday: </li>
   <li>Friday: </li>
@@ -126,69 +127,34 @@ key:
   <li>Monday: </li>
   <li>Tuesday: </li>
   <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Thursday: gp</li>
+  <li>Friday: gp</li>
 </ul>
 </details>
 
 <details>
 <summary>Week 12</summary>
 <ul>
-  <li>Monday: Randomize Array</li>
-  <li>Tuesday: Primes Summed</li>
-  <li>Wednesday: Ransom Note</li>
-  <li>Thursday: Lowest Common Denominator</li>
-  <li>Friday: Competency day</li>
+  <li>Monday: Randomize Array</li>gp
+  <li>Tuesday: Primes Summed</li>gp
+  <li>Wednesday: Ransom Note</li>gp
+  <li>Thursday: Lowest Common Denominator</li>gp
+  <li>Friday: Competency day</li>gp
 </ul>
 </details>
 
 <details>
 <summary>Week 13</summary>
 <ul>
-  <li>Monday: Fibonacci Recursion</li>
-  <li>Tuesday: Does It Contain</li>
-  <li>Wednesday: </li>
-  <li>Thursday: </li>
-  <li>Friday: </li>
+  <li>Monday: Fibonacci Recursion  gp</li>
+  <li>Tuesday: Does It Contain  gp</li>
+  <li>Wednesday: gp</li>
+  <li>Thursday: gp</li>
+  <li>Friday: gp</li>
 </ul>
 </details>
 
-## Problem Solving
 
-Below are steps that should be used for teaching how to solve toy problems. It is vitally important to use this on every toy problem you do from scratch. This teaches them how to break down a toy problem and identify its parts. This is also the exact same steps that should be followed when doing white board problems, Make sure the students know that! Help them to see the value in being clear with your communication and planning. Some steps seem to be not worth while but if a student is struggling with toy problems you should be able to help them see that their problem has to do with one of the steps.
-
-// Step 1: Clarify - Understand the question
-
-// Step 2: Create multiple sample data
-
-// Step 3: Solve your Sample Data
-
-// Step 4: Break down the problem into its smallest pieces and how you solve the mini the problems.
-
-// Step 5: Pseudo Code
-
-// Step 6: Code
-
-## Broken Problems
-
-Every one of these problems is "finished" but does not work. With each one you can solve it by only modifying existing lines (make sure to communicate this to the students), there is no need to write more lines of code. The purpose of this is to teach the students how to troubleshoot and develop debugging skills/mindset. A trouble shooting mindset is more like a way of life than just a coding idea. These troubleshooting steps are universal and apply to any subject.
-
-Typically the process starts at the Observation step. You may observe, "my code does not work" and that is a viable and helpful observation. From there you need to ask questions. Questions like, what does this line really do? One of the hardest things to do is learning to question your own assumptions, and even harder is realizing you are making assumptions. The goal from here is to get confirmations of your assumptions but performing experiments that will give you hard evidence to either prove or disprove your theories.
-
-#### IMPORTANT
-If all you do for these problems is solve the problems you will finish in about 5 minutes. But that is not the point of the problem. It is to teach the students how to perform tests. You should make it clear to the students that you don't want fixes, you want theory's, and how to we can test those theories.
-
-1. Observation
-
-2. Question your assumptions
-
-3. Form Hypothesis
-
-4. Experiment
-
-5. Analysis
-
-6. Conclusion
 
 ## HTML
 

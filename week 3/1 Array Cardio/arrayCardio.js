@@ -25,23 +25,11 @@ const inventors = [
 // 4. How many years did all the inventors live?
 
 const animals = ['war tortis', 'siege badger', 'gladiator giraffe'];
-const moreAnimals = ['battle toad', 'mounted assault snake', 'K8'];
-const animal = 'Doge';
+const moreAnimals = ['battle toad', 'mounted assault snake', 'K8 Stealth Unit'];
+const animal = 'special unit panda';
 
 // Spread Operator ...
-// 5. Combine the two arrays, and add the animal in the middle
-
-const people = [
-  { name: 'Wes', year: 1988 },
-  { name: 'Kait', year: 1986 },
-  { name: 'Irv', year: 1970 },
-  { name: 'Lux', year: 2015 },
-];
-
-// .some()
-// 5. is at least one person 19 or older?
-// .every()
-// 6. is everyone 19 or older?
+// 5. Combine the two arrays, and add the single 'animal' variable in the middle
 
 const comments = [
   { text: 'Love this!', id: 523423 },
@@ -51,7 +39,7 @@ const comments = [
   { text: 'Nice Nice Nice!', id: 542328 },
 ];
 // .find()
-// 7. find the comment with the ID of 823423
+// 6. find the comment with the ID of 823423
 
 // .findIndex()
-// 8. Find the index of the item with the ID of 823423
+// 7. Find the index of the item with the ID of 823423

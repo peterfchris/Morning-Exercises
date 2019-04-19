@@ -1,3 +1,9 @@
+# Week 6 Day 4 - Schema Builder 
+
+## Goal
+
+To help students in their understanding of how to structure a relational database.
+
 # Instructor Notes
 
 The purpose of this project is to review sessions and show the need for session data.
