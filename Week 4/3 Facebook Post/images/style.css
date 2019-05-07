@@ -1,0 +1,120 @@
+/* Step 1 */
+
+body {
+    background: gray;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white-container {
+    height: 90vh;
+    width: 30vw;
+    background: #efefef;
+    margin: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    height: 80vh;
+    width: 28vw;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Step 2 */
+
+.box2 {
+    height: 8vh;
+    width: 26.5vw;
+    background: tomato;
+    margin: .5vh auto;
+}
+
+.box2-big {
+    height: 52vh;
+    width: 26.5vw;
+    background: tomato;
+    margin: .5vh auto;
+}
+
+.box2-small {
+    height: 6vh;
+    width: 26.5vw;
+    background: tomato;
+    margin: .5vh auto;
+    display: flex;
+    flex-direction: row;
+}
+
+/* Step 3 */
+
+.box3-top {
+    background: blue;
+    height: 6vh;
+    width: 12vw;
+    margin: 1vh .25vw;
+}
+
+.box3-tiny {
+    background: blue;
+    height: 3vh;
+    width: 2vw;
+    position: absolute;
+    margin-left: 24.3vw;
+    margin-top: -7.5vh;
+}
+
+.box3-long {
+    background: blue;
+    height: 4.8vh;
+    width: 12vw;
+    margin: .5vh .25vw;
+}
+
+.box3-medium-top {
+    background: blue;
+    height: 4.8vh;
+    width: 8vw;
+    margin: .5vh .25vw .5vh 6vw;
+}
+
+.box3-medium {
+    background: blue;
+    height: 4.8vh;
+    width: 7vw;
+    margin: .5vh .25vw;
+}
+
+.box3-short {
+    background: blue;
+    height: 4.8vh;
+    width: 4.5vw;
+    margin: .5vh .25vw;
+}
+
+/* Step 4 */
+
+.box4-short {
+    height: 1vh;
+    width: 1vw;
+    background: yellow;
+}
+
+.box4-long {
+    height: 1vh;
+    width: 1vw;
+    background: yellow;
+}
+
+.box4-column {
+    height: 1vh;
+    width: 1vw;
+    background: yellow;
+}
